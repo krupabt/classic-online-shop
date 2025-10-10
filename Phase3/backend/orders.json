@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1759990690811,
+    "items": [
+      {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 699
+      }
+    ],
+    "customer": {
+      "name": "MOUNI",
+      "email": "Mouni12@gmail.com",
+      "phone": "9436542892",
+      "address": "benagaluru"
+    },
+    "createdAt": "9/10/2025, 11:48:10 am"
+  },
+  {
+    "id": 1760025946102,
+    "items": [
+      {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 699
+      }
+    ],
+    "customer": {
+      "name": "Krupa B T",
+      "email": "krupabt12@gmail.com",
+      "phone": "9480436756",
+      "address": "Benagluru"
+    },
+    "createdAt": "9/10/2025, 9:35:46 pm"
+  }
+]
