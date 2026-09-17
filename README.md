@@ -2,7 +2,7 @@
 
 A **simple and professional full-stack e-commerce web application** built using **React.js, Vite, Tailwind CSS, Node.js, Express.js, and JavaScript**.
 
-The project provides a realistic online shopping experience with features such as **user login, product browsing, product details, shopping cart management, quantity updates, product removal, and responsive design**.
+The project provides a realistic online shopping experience with features such as **user login, product browsing, product details, shopping cart management, quantity updates, product removal, and responsive design**
 
 ---
 
