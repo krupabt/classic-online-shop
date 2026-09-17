@@ -18,6 +18,11 @@ The project uses a small set of **sample products** to demonstrate how users can
 
 ---
 
+DEMO :- 
+<img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/cdd5514e-a63d-455c-833a-66b09ee53760" />
+<img width="940" height="463" alt="image" src="https://github.com/user-attachments/assets/6e8cd96b-945e-4a6b-adfe-e3dfbf1c5237" />
+
+
 # ✨ Features
 
 ### 🔐 Login
