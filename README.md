@@ -1,4 +1,4 @@
-# 🛍️ Classic Online Shop
+# 🛍️ Classic Online Shop 
 
 A **simple and professional full-stack e-commerce web application** built using **React.js, Vite, Tailwind CSS, Node.js, Express.js, and JavaScript**.
 
